@@ -1,0 +1,2 @@
+Convenience Store POS & Management System - Development Log
+[2026-09-22] chore: initialize project repository and structure
