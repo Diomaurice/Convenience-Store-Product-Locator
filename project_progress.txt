@@ -5,3 +5,4 @@ Convenience Store POS & Management System - Development Log
 [2026-09-25] chore(seed): add initial dummy data for testing
 [2026-09-28] refactor: modularize database configuration
 [2026-09-29] feat(ui): setup main window and portal launcher
+[2026-10-01] feat(customer): implement category browsing view
