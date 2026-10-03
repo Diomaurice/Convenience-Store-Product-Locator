@@ -6,3 +6,4 @@ Convenience Store POS & Management System - Development Log
 [2026-09-28] refactor: modularize database configuration
 [2026-09-29] feat(ui): setup main window and portal launcher
 [2026-10-01] feat(customer): implement category browsing view
+[2026-10-03] feat(customer): add product inventory list per category
