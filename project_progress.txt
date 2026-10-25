@@ -16,3 +16,4 @@ Convenience Store POS & Management System - Development Log
 [2026-10-18] feat(inventory): add stock replenishment feature
 [2026-10-20] feat(shelves): connect shelf management to MySQL locations
 [2026-10-23] feat(search): add dynamic product search and filtering
+[2026-10-25] refactor(ui): migrate from Toplevel popups to frame switching
