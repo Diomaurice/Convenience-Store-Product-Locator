@@ -19,3 +19,4 @@ Convenience Store POS & Management System - Development Log
 [2026-10-25] refactor(ui): migrate from Toplevel popups to frame switching
 [2026-10-28] style(ui): apply symmetrical card layouts and padding
 [2026-10-30] style(ui): update color palette and rounded button styling
+[2026-11-01] fix(navigation): resolve frame destruction and cleanup bugs
