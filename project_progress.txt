@@ -24,3 +24,4 @@ Convenience Store POS & Management System - Development Log
 [2026-11-03] feat(validation): add duplicate product prevention check
 [2026-11-04] fix(ui): adjust window geometry and button alignments
 [2026-11-05] test: perform end-to-end integration testing with MySQL
+[2026-11-06] docs: finalize README and submission documentation
